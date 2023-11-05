@@ -23,3 +23,7 @@ This tool is SAFE & Guaranteed that it does not HARM your PC!, i've been using i
 # Notes
 
 Tested on Windows 10, 8.1, 8, 7, Vista and XP (64 & 32 bit)
+
+
+# 其它DIY batch scrip 参考
+https://www.instructables.com/DIY-Small-Tool-to-Clean-Your-Pc/
